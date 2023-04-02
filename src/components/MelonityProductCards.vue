@@ -6,7 +6,7 @@
   
   <script>
   export default {
-    name: 'MelonityProductCard',
+    name: 'MelonityProductCards',
   };
   </script>
   
